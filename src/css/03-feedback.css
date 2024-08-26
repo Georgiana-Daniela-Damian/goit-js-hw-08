@@ -3,8 +3,8 @@
   flex-direction: column;
   max-width: 480px;
   padding: 12px;
-  background-color: #fff;
-  border: 1px solid rgba(0, 0, 0, 0.12);
+  background-color: rgb(42, 105, 94);
+  border: 1px solid rgb(93, 181, 164);
   border-radius: 4px;
 }
 
