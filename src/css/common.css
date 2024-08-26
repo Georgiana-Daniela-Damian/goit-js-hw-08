@@ -16,3 +16,15 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.image {
+  color: rgb(93, 181, 164);
+}
+
+.video {
+  color: rgb(93, 181, 164);
+}
+
+.feedback {
+  color: rgb(93, 181, 164);
+}
